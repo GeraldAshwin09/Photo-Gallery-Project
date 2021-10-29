@@ -1,0 +1,122 @@
+#sea
+{
+    height: 200px;
+    width: 200px;
+}
+#reuse
+{
+        height: 200px;
+    width: 200px;
+}
+#starman
+{
+        height: 200px;
+    width: 200px;
+}
+#lightshowrocket
+{
+        height: 200px;
+    width: 200px;
+}
+#falconheavy
+{
+        height: 200px;
+    width: 200px;
+}
+#sls
+{
+        height: 200px;
+    width: 200px;
+}
+#inter
+{
+        height: 200px;
+    width: 200px;
+}
+#menu
+{
+    float:left;
+    font-family: sans-serif;
+}
+#iss
+{
+  height: 600px;
+    width:900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.line
+{
+    height: 6px;
+    width:70px;
+    background-color: white;
+    margin:8px auto;
+    text-align: center;
+}
+#slider
+{
+    background-color: red;
+    color:white;
+}
+.container
+{
+    text-align: center;
+}
+
+#sliding img
+{
+    height: 300px;
+    margin-top:20px;
+}
+.carousel-inner p
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:white;
+    font-size: 15px;
+}
+#home
+{
+   background: linear-gradient(to right, #000066 -10%, #3333ff 100%);
+    color: white;
+   
+}
+#grid
+{
+    background: linear-gradient(to right, #003300 -10%, #33cc33 100%);
+    color:white;
+    margin-top:100px;
+    margin-bottom: 100px;
+ 
+}
+.menu{
+    color: black;
+    width:100%;
+    margin-top: 0px;
+   top:0px;
+    position:fixed;
+    z-index:10;
+}
+.links{
+    display: inline;
+    padding-left:33px;
+    padding-right:25px;
+    font-family: fantasy;
+    font-size:20px;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+#home
+{
+    margin-top: 25px;
+}
+.links:hover{
+    background: aqua;
+}
+#slider
+{
+     background: linear-gradient(to right, #800000 -10%, #ff0000 100%);
+}
